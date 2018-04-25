@@ -9,7 +9,6 @@ import tw.core.Answer;
 import java.io.ByteArrayOutputStream;
 import java.io.PrintStream;
 
-import static com.sun.javaws.JnlpxArgs.verify;
 import static org.fest.assertions.api.Assertions.assertThat;
 import static org.mockito.Mockito.when;
 
