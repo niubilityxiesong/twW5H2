@@ -55,9 +55,9 @@ public class GameControllerTest {
         String output = Output();
 
         assertTrue(output.startsWith("------Please input your answer as x x x x , x <10 ------\n"));
-        assertTrue(output.contains("Gue1ss History:"));
-        assertTrue(output.contains("Gu2ess Result:"));
-        assertTrue(output.contains("Ga3me Status:"));
+        assertTrue(output.contains("Guess History:"));
+        assertTrue(output.contains("Guess Result:"));
+        assertTrue(output.contains("Game Status:"));
     }
 
 
